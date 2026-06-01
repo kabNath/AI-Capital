@@ -2,7 +2,7 @@
 
 **A systematic cross-asset momentum strategy with regime detection and capital protection.**
 
-Built and operated by [Wendenda Nathanael Kaboré](#about) — PhD candidate in Electronic Engineering (deep reinforcement learning for wireless systems), National Taipei University of Technology.
+Built and operated by [Wendenda Nathanael Kaboré](#about)
 
 ---
 
@@ -167,8 +167,7 @@ These are the same competencies that matter in modern quantitative research, whe
 ## About
 
 **Wendenda Nathanael Kaboré**
-PhD candidate, Electronic Engineering — National Taipei University of Technology (NTUT)
-Research: multi-agent deep reinforcement learning (MADDPG, HFL-MADRL), federated learning, UAV-assisted networks, RIS, SAGIN systems. 8 IEEE publications. NVIDIA NGC 6G Developer Program (2026).
+Electronic Engineering — National Taipei University of Technology (NTUT)
 Thesis defense: November 2026.
 
 - ORCID: 0009-0006-8255-8711
